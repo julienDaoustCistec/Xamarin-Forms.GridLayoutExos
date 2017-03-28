@@ -8,7 +8,7 @@ namespace GridLayoutExercise
 		{
 			InitializeComponent();
 
-			MainPage = new GridLayoutExercisePage();
+			MainPage = new GridLayoutExercise2Page();
 		}
 
 		protected override void OnStart()

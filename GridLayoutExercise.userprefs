@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{3A782DA2-8719-4FCE-B5A5-06BCAE55A0B7}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridLayoutExercise/App.xaml.cs">
+    <Files>
+      <File FileName="GridLayoutExercise/GridLayoutExercise2Page.xaml.cs" Line="10" Column="33" />
+      <File FileName="GridLayoutExercise/App.xaml.cs" Line="11" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
